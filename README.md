@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, i'm deadcornerblock 👋
 
-<!--
-**deadcornerblock/deadcornerblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Singapore.
 
-Here are some ideas to get you started:
+- ☕ Powered by coffee and late-night commits
+- 🚀 Interested in analytics
+- 💬 Ask me about Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deadcornerblock&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=synthwave" alt="deadcornerblock GitHub stats" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadcornerblock&layout=compact&langs_count=8&hide_border=true&theme=synthwave" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/NumPy-f778ba?style=for-the-badge&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-f778ba?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Python-f778ba?style=for-the-badge&logoColor=white" alt="Python" />
